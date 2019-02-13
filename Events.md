@@ -18,11 +18,11 @@
   
 ## February 2019:
   **F5/Ansible Automation Workshop**  
-  City: **Seattle** (Confirmed)  
+  City: **Seattle** (Cancelled due to bad weather)  
   Date & Time: Tuesday, February 12th | 10:30AM to 3:30PM PST     
   Location: F5 Networks, Inc. | Diablo Room (located on the 1st floor)  
   Address: 351 Elliott Ave W, Seattle, WA 98119  
-  [Register here](https://interact.f5.com/2019Q2UNWF5automationwithAnsibleworkshopSeattleWAFEB12_2-RegistrationPage.html?mkt_tok=eyJpIjoiWlRnNVptTm1Zakl6TjJFMSIsInQiOiJYV1ozaUVLbStieUpjSE1cL2ZOdUFKRUJOdGEwdmRjcWlQckNPNmxPU3l4bVwvcEV0cTBCRFp0c3YzdzBlbE1oRTlDWUNVdzNJM0VUNXVya3BERER2Ukl3PT0ifQ%3D%3D)
+
   
   **HashiCorp User Group**  
   City: **San Jose** (Confirmed)
