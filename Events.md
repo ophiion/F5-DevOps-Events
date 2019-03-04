@@ -17,13 +17,6 @@
  ___
   
 ## February 2019:
-  **F5/Ansible Automation Workshop**  
-  City: **Seattle** (Cancelled due to bad weather)  
-  Date & Time: Tuesday, February 12th | 10:30AM to 3:30PM PST     
-  Location: F5 Networks, Inc. | Diablo Room (located on the 1st floor)  
-  Address: 351 Elliott Ave W, Seattle, WA 98119  
-
-  
   **HashiCorp User Group**  
   City: **San Jose** (Confirmed)
   Date & Time: Wednesday, February 13th | 6:00PM to 8:30PM  
@@ -34,23 +27,46 @@
  ___
   
 ## March 2019:
+  **F5/Ansible Automation Workshop** 
+  Cost of attendance: Free  
+  City: **San Fransisco**, CA (Confirmed)  
+  Date & Time: Tuesday, March 19th 2019 | 10:00 a.m. – 3:30 p.m.   
+  Location: MicroTek - San Francisco  
+  Address: 655 Montgomery St. Suite 400, San Francisco, California  94111  
+  [Register](https://events.redhat.com/profile/form/index.cfm?PKformID=0x34980abcd)      
+ 
   **F5/Ansible Automation Workshop**  
-  City: **San Fransisco**, CA (Planning)  
-  Date & Time: TBD     
+  City: **Seattle** (CPlanning)  
+  Cost of attendance: Free  
+  Date & Time: Tuesday, March 26 | 10:30AM to 3:30PM PST     
+  Location: F5 Networks, Inc. | Diablo Room (located on the 1st floor)  
+  Address: 351 Elliott Ave W, Seattle, WA 98119  
+  Registration Link: Available soon
+  
+  ___
     
-  **F5/Ansible Automation Workshop**   
-  City: **Sacramento**,CA (Planning)
-  Date & Time: TBD     
+## April 2019:
+  **F5/Ansible Automation Workshop**  
+  Cost of attendance: Free  
+  City: **Tallahassee** (Confirmed)
+  Date & Time: Wednesday, April 3rd  
+  Location: Florida State Conference Center, Room 214  
+  Address: 555 West Pensacola Street, Tallahassee, Florida 32306-1640  
+  Registration Link: Available soon
   
   **F5/Ansible Automation Workshop**   
-  City: **Raleigh**, NC (Planning)  
-  Date & Time: TBD     
+  City: **Raleigh**, NC (Planning) 
+  Cost of attendance: Free  
+  Date & Time: April 12, 2019
+  Location: Red Hat office, TBD  
+  Registration Link: Available soon
   
  ___
     
 ## May 2019:
   **F5/Ansible Automation Workshop**  
-  City: **Boston** (Planning)
+  Cost of attendance: Free  
+  City: **Boston** (Confirmed)
   Date & Time: TBD  
   Event: Red Hat Summit
   
