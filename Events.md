@@ -39,8 +39,8 @@
   City: **Seattle** (Confirmed)  
   Cost of attendance: Free  
   Date & Time: Tuesday, March 26 | 10:30AM to 3:30PM PST     
-  Location: F5 Networks, Inc. | Diablo Room (located on the 1st floor)  
-  Address: 351 Elliott Ave W, Seattle, WA 98119  
+  Location: F5 Headquarters – Executive Briefing Center  
+  Address: 501 Elliott Avenue West, Seattle, WA 98119   
   [Register](https://interact.f5.com/2019Q2UNWF5automationwithAnsibleworkshopSeattleWAFEB12_2-RegistrationPage.html)
   
   ___
