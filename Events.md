@@ -36,12 +36,12 @@
   [Register](https://events.redhat.com/profile/form/index.cfm?PKformID=0x34980abcd)      
  
   **F5/Ansible Automation Workshop**  
-  City: **Seattle** (CPlanning)  
+  City: **Seattle** (Confirmed)  
   Cost of attendance: Free  
   Date & Time: Tuesday, March 26 | 10:30AM to 3:30PM PST     
   Location: F5 Networks, Inc. | Diablo Room (located on the 1st floor)  
   Address: 351 Elliott Ave W, Seattle, WA 98119  
-  Registration Link: Available soon
+  [Register](https://interact.f5.com/2019Q2UNWF5automationwithAnsibleworkshopSeattleWAFEB12_2-RegistrationPage.html)
   
   ___
     
