@@ -43,6 +43,13 @@
   Address: 501 Elliott Avenue West, Seattle, WA 98119   
   [Register](https://interact.f5.com/2019Q2UNWF5automationwithAnsibleworkshopSeattleWAFEB12_2-RegistrationPage.html)
   
+  **F5/Ansible Automation Workshop** 
+  Cost of attendance: Free  
+  City: **Sacramento**, CA (Confirmed)  
+  Date & Time: Thursday, March 29th 2019 | 10:00 a.m. – 3:30 p.m.   
+  Location: CalPERS | Room 1600X  
+  Address: 400 Q St, Sacramento, CA 95811  
+  [Register](https://interact.f5.com/2019Q2SNorCalF5automationwithAnsibleWorkshopSacramentoCAMAR29_2-RegistrationPage.html) 
   ___
     
 ## April 2019:
