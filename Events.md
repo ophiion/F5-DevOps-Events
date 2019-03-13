@@ -59,7 +59,7 @@
   Date & Time: Wednesday, April 3rd  
   Location: Florida State Conference Center, Room 214  
   Address: 555 West Pensacola Street, Tallahassee, Florida 32306-1640  
-  Registration Link: Available soon
+  [Register](https://carahevents.carahsoft.com/Event/Details/83967-f5)
   
   **F5/Ansible Automation Workshop**   
   City: **Raleigh**, NC (Planning) 
