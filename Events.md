@@ -29,7 +29,7 @@
 ## March 2019:
   **F5/Ansible Automation Workshop** 
   Cost of attendance: Free  
-  City: **San Fransisco**, CA (Confirmed)  
+  City: **San Fransisco**, CA (Complete)  
   Date & Time: Tuesday, March 19th 2019 | 10:00 a.m. – 3:30 p.m.   
   Location: MicroTek - San Francisco  
   Address: 655 Montgomery St. Suite 400, San Francisco, California  94111  
@@ -62,11 +62,12 @@
   [Register](https://carahevents.carahsoft.com/Event/Details/83967-f5)
   
   **F5/Ansible Automation Workshop**   
-  City: **Raleigh**, NC (Planning) 
+  City: **Raleigh**, NC (Confirmed) 
   Cost of attendance: Free  
   Date & Time: April 12, 2019
-  Location: Red Hat office, TBD  
-  Registration Link: Available soon
+  Location: Red Hat Annex  
+  Address: Red Hat Annex, 100 E Davie Street, Raleigh, North Carolina 27601  
+  [Register](https://events.redhat.com/profile/form/index.cfm?PKformID=0x37165abcd)  
   
  ___
     
